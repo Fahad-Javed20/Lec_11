@@ -1,14 +1,13 @@
 
 import './App.css'
+import CompanyCard from './components/CompanyCard'
 
 function App() {
   
 
   return (
     <>
-      <div className='text-3xl '>
-        My name is fahad Bin javed
-        </div>
+      <CompanyCard/>
     </>
   )
 }
