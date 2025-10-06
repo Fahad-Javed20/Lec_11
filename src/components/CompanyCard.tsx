@@ -1,7 +1,7 @@
 const CompanyCard = () => {
   return (
     <div className="h-screen flex items-center justify-center ">
-      <div className="bg-purple-800 h-120 w-220 flex md:flex-row-reverse xl:flex">
+      <div className="bg-purple-800 h-120 w-220 flex">
         <div className="w-1/2 flex flex-col justify-between items-start pl-10">
           <div className="h-1/3 pt-10 font-medium text-2xl ">Super Protech Ltd </div>
           <div className="h-1/3 flex flex-col gap-2">
